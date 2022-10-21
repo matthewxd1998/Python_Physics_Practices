@@ -8,7 +8,7 @@ Solving 1D Kinematics and Loops
 ## Chapter 2
 Graphs and Stuff.
 * Introduction of vpython module graph
- * graphs()
+ * graph()
  * gdots()
  * gcurve()
 
