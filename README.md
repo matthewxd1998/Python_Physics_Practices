@@ -14,3 +14,9 @@ Graphs and Stuff.
 
  ## Chapter 3
  Making 3D Objects and Projectile Motion
+
+ ## Chapter 4
+ Projectile Motion with Air Resistance
+
+ ## Chapter 5
+ Projectile Motion and Python Functions
